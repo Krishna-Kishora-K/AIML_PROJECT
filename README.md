@@ -7,7 +7,7 @@ This repository contains two exciting machine learning projects:
 
 ---
 
-## Project 1: Movie Recommendation System
+# Project 1: Movie Recommendation System
 
 ### Project Objective
 
